@@ -4,7 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace PL.Controllers;
 
-[Route("/order/[action]")]
+[ApiController]
+[Route("/api/order/[action]")]
 public class OrderController : Controller
 {
     public OrderController(ITicketService ticketService)
@@ -15,39 +16,37 @@ public class OrderController : Controller
     private ITicketService TicketService { get; }
 
     [HttpGet]
+    [ActionName("")]
     public async Task<IActionResult> Index()
     {
         var orders = await TicketService.GetOrdersAsync();
 
-        return View(orders);
+        return Json(orders);
     }
 
-    [HttpGet]
-    public async Task<IActionResult> MakeOrder(int ticketId, bool paid)
+    [HttpPost]
+    [ActionName("make")]
+    public async Task<IActionResult> MakeOrder([FromBody] OrderDto dto)
     {
-        var dto = new OrderDto
-        {
-            TicketId = ticketId,
-            IsPaid = paid,
-            Quantity = 1
-        };
-
         var res = await TicketService.AddOrderAsync(dto);
 
         if (res is null)
             return BadRequest("Вільних квитків немає");
 
-        return RedirectToAction("Index");
+        return Json("Замовлення успішно створено");
     }
 
     [HttpPost]
-    public async Task<IActionResult> UpdateOrder(int id)
+    [ActionName("update")]
+    public async Task<IActionResult> UpdateOrder([FromBody] int id)
     {
         var res = await TicketService.UpdateOrderAsync(id);
 
         if (res is null)
             return BadRequest("Щось пішло не так");
 
-        return RedirectToAction("Index");
+        var orders = await TicketService.GetOrdersAsync();
+
+        return Json(orders);
     }
 }

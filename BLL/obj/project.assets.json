@@ -2638,11 +2638,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maxzel/RiderProjects/Lab5_3/BLL/BLL.csproj",
+      "projectUniqueName": "/Users/maxzel/RiderProjects/Lab6_3/BLL/BLL.csproj",
       "projectName": "BLL",
-      "projectPath": "/Users/maxzel/RiderProjects/Lab5_3/BLL/BLL.csproj",
+      "projectPath": "/Users/maxzel/RiderProjects/Lab6_3/BLL/BLL.csproj",
       "packagesPath": "/Users/maxzel/.nuget/packages/",
-      "outputPath": "/Users/maxzel/RiderProjects/Lab5_3/BLL/obj/",
+      "outputPath": "/Users/maxzel/RiderProjects/Lab6_3/BLL/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -2661,8 +2661,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/maxzel/RiderProjects/Lab5_3/DAL/DAL.csproj": {
-              "projectPath": "/Users/maxzel/RiderProjects/Lab5_3/DAL/DAL.csproj"
+            "/Users/maxzel/RiderProjects/Lab6_3/DAL/DAL.csproj": {
+              "projectPath": "/Users/maxzel/RiderProjects/Lab6_3/DAL/DAL.csproj"
             }
           }
         }

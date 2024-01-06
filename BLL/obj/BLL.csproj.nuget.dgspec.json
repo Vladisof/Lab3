@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maxzel/RiderProjects/Lab5_3/BLL/BLL.csproj": {}
+    "/Users/maxzel/RiderProjects/Lab6_3/BLL/BLL.csproj": {}
   },
   "projects": {
-    "/Users/maxzel/RiderProjects/Lab5_3/BLL/BLL.csproj": {
+    "/Users/maxzel/RiderProjects/Lab6_3/BLL/BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maxzel/RiderProjects/Lab5_3/BLL/BLL.csproj",
+        "projectUniqueName": "/Users/maxzel/RiderProjects/Lab6_3/BLL/BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "/Users/maxzel/RiderProjects/Lab5_3/BLL/BLL.csproj",
+        "projectPath": "/Users/maxzel/RiderProjects/Lab6_3/BLL/BLL.csproj",
         "packagesPath": "/Users/maxzel/.nuget/packages/",
-        "outputPath": "/Users/maxzel/RiderProjects/Lab5_3/BLL/obj/",
+        "outputPath": "/Users/maxzel/RiderProjects/Lab6_3/BLL/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -30,8 +30,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/maxzel/RiderProjects/Lab5_3/DAL/DAL.csproj": {
-                "projectPath": "/Users/maxzel/RiderProjects/Lab5_3/DAL/DAL.csproj"
+              "/Users/maxzel/RiderProjects/Lab6_3/DAL/DAL.csproj": {
+                "projectPath": "/Users/maxzel/RiderProjects/Lab6_3/DAL/DAL.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "/Users/maxzel/RiderProjects/Lab5_3/DAL/DAL.csproj": {
+    "/Users/maxzel/RiderProjects/Lab6_3/DAL/DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maxzel/RiderProjects/Lab5_3/DAL/DAL.csproj",
+        "projectUniqueName": "/Users/maxzel/RiderProjects/Lab6_3/DAL/DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "/Users/maxzel/RiderProjects/Lab5_3/DAL/DAL.csproj",
+        "projectPath": "/Users/maxzel/RiderProjects/Lab6_3/DAL/DAL.csproj",
         "packagesPath": "/Users/maxzel/.nuget/packages/",
-        "outputPath": "/Users/maxzel/RiderProjects/Lab5_3/DAL/obj/",
+        "outputPath": "/Users/maxzel/RiderProjects/Lab6_3/DAL/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

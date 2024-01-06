@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9IN70nAf2Cl+kc62rRglZB6rERh3Uf3inHUN8iE5vXI182VfavxhL5dLdINn1zzfL3pip2Y7ku6DmXunPDF+Pg==",
+  "dgSpecHash": "VMuk3QGz4Chrm91KmBm/DWVixmoUA1IoKnqWul1+/RiBGYcWPwxIEnG2U8lKKZzG7h0gEYHSxLRUY/5d3SarQw==",
   "success": true,
-  "projectFilePath": "/Users/maxzel/RiderProjects/Lab5_3/PL/PL.csproj",
+  "projectFilePath": "/Users/maxzel/RiderProjects/Lab6_3/PL/PL.csproj",
   "expectedPackageFiles": [
     "/Users/maxzel/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/maxzel/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",

@@ -1,9 +1,11 @@
+using BLL.DTOs;
 using BLL.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace PL.Controllers;
 
-[Route("/")]
+[ApiController]
+[Route("/api/[controller]")]
 public class SpectacleController : Controller
 {
     public SpectacleController(ISpectacleService spectacleService)
@@ -18,15 +20,15 @@ public class SpectacleController : Controller
     {
         var spectacles = await SpectacleService.GetSpectaclesAsync();
 
-        return View(spectacles);
+        return Json(spectacles);
     }
 
     [HttpPost]
-    public async Task<IActionResult> Index(string searchBy, string searchValue)
+    public async Task<IActionResult> Index([FromBody] SearchDto dto)
     {
         var spectacles = await SpectacleService
-            .GetSpectaclesAsync(searchBy, searchValue);
+            .GetSpectaclesAsync(dto.SearchBy, dto.SearchValue);
 
-        return View("Index", spectacles);
+        return Json(spectacles);
     }
 }
