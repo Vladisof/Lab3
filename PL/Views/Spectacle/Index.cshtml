@@ -1,0 +1,75 @@
+@model IEnumerable<Spectacle>
+
+@{
+    ViewData["Title"] = "Спектаклі";
+}
+
+<div class="container mt-5">
+    <h2>Афіши</h2>
+
+    <form method="post">
+        <div class="form-group col-md-4">
+            <label for="selectedFilter">Пошук за</label>
+            <select class="form-control" id="selectedFilter" name="searchBy">
+                <option value="name">Назвою</option>
+                <option value="date">Датою</option>
+                <option value="author">Автором</option>
+                <option value="genre">Жанром</option>
+            </select>
+        </div>
+
+        <div class="form-group col-md-4">
+            <input type="text" class="form-control" id="searchValue" name="searchValue" placeholder="Введіть значення">
+        </div>
+
+        <div class="form-group col-md-12">
+            <button type="submit" class="btn btn-primary">Пошук</button>
+        </div>
+    </form>
+
+    @foreach (var spectacle in Model)
+    {
+        <div class="card mb-3">
+            <div class="card-header">
+                Назва афіши: @spectacle.Name
+            </div>
+            <div class="card-text">
+                <div class="row">
+                    <div class="col-6 ml-3">
+                        <p>Опис: @spectacle.Description</p>
+                    </div>
+                    <div class="col-5">
+                        <p>Дата: @spectacle.Date</p>
+                        <p>Жанр: @spectacle.Genre</p>
+                        <p>Автор: @spectacle.Author</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">Tickets</h5>
+                <ul class="list-group">
+                    @foreach (var ticket in spectacle.Tickets)
+                    {
+                        <li class="list-group-item d-flex justify-content-between align-items-center">
+                            Назва: @ticket.Name
+                            <span class="badge badge-primary badge-pill">Залишилось: @ticket.Amount квитків</span>
+                            <span class="badge badge-success">Ціна: @ticket.Price грн.</span>
+                            <div class="btn-group" role="group">
+                                <a type="button" class="btn btn-primary"
+                                   asp-controller="Order" asp-action="MakeOrder" asp-route-ticketId="@ticket.Id"
+                                   asp-route-paid="true">
+                                    Купити
+                                </a>
+                                <a type="button" class="btn btn-secondary"
+                                   asp-controller="Order" asp-action="MakeOrder" asp-route-ticketId="@ticket.Id"
+                                   asp-route-paid="false">
+                                    Забронювати
+                                </a>
+                            </div>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    }
+</div>

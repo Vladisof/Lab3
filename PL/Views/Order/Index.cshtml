@@ -1,0 +1,39 @@
+@model IEnumerable<Order>
+
+@{
+    ViewData["Title"] = "Замовлення";
+}
+
+<div class="container mt-5">
+    <h2>Ваші замовлення</h2>
+
+    @foreach (var order in Model)
+    {
+        <div class="card mb-3">
+            <div class="card-header">
+                Order ID: @order.Id
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">Вистава: @order.Ticket.Spectacle.Name</h5>
+                <p class="card-text">Назва квитка: @order.Ticket.Name</p>
+                <p class="card-text">Кількість квитків: @order.Quantity</p>
+                <p class="card-text">Ціна: @order.TotalPrice грн</p>
+
+                @if (!order.IsPaid)
+                {
+                    <p class="card-text">Статус: бронь</p>
+                    <form method="post" asp-action="UpdateOrder">
+                        <input type="hidden" name="id" value="@order.Id"/>
+                        <button type="submit" class="btn btn-primary">
+                            Купити
+                        </button>
+                    </form>
+                }
+                else
+                {
+                    <p class="card-text">Статус: оплачено</p>
+                }
+            </div>
+        </div>
+    }
+</div>

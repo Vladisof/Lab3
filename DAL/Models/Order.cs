@@ -9,4 +9,6 @@ public class Order
 
     public int TicketId { get; set; }
     public Ticket Ticket { get; set; } = null!;
+
+    public int TotalPrice => Quantity * Ticket.Price;
 }

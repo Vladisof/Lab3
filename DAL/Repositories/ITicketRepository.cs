@@ -8,6 +8,7 @@ public interface ITicketRepository
     Task<Ticket> AddTicketAsync(Ticket ticket);
     Task<Order> AddOrderAsync(Order order);
     Task<IEnumerable<Ticket>> GetAllTicketsAsync();
+    Task<Ticket?> GetTicketAsync(int id);
     Task<Order?> GetOrderAsync(int id);
     Task<IEnumerable<Order>> GetOrdersAsync(bool? paid = null);
 }
@@ -39,6 +40,11 @@ public class TicketRepository : ITicketRepository
             .ToListAsync();
 
         return res;
+    }
+
+    public Task<Ticket?> GetTicketAsync(int id)
+    {
+        return _context.Tickets.FirstOrDefaultAsync(t => t.Id == id);
     }
 
     public async Task<Order?> GetOrderAsync(int id)
