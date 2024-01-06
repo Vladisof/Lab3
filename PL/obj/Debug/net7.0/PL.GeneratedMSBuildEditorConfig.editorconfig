@@ -7,11 +7,31 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Lab3_3
-build_property.RootNamespace = Lab3_3
-build_property.ProjectDir = C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\
+build_property.RootNamespace = PL
+build_property.RootNamespace = PL
+build_property.ProjectDir = /Users/maxzel/RiderProjects/Lab4_3/PL/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL
+build_property.MSBuildProjectDirectory = /Users/maxzel/RiderProjects/Lab4_3/PL
 build_property._RazorSourceGeneratorDebug = 
+
+[/Users/maxzel/RiderProjects/Lab4_3/PL/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maxzel/RiderProjects/Lab4_3/PL/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maxzel/RiderProjects/Lab4_3/PL/Views/Spectacle/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3BlY3RhY2xlL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maxzel/RiderProjects/Lab4_3/PL/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/maxzel/RiderProjects/Lab4_3/PL/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

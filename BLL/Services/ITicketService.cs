@@ -39,6 +39,17 @@ public class TicketService : ITicketService
 
     public async Task<Order?> AddOrderAsync(OrderDto orderDto)
     {
+        var ticket = await WorkModel.Tickets
+            .GetTicketAsync(orderDto.TicketId);
+
+        if (ticket is null)
+            return null;
+
+        if (ticket.Amount < orderDto.Quantity)
+            return null;
+
+        ticket.Amount -= orderDto.Quantity;
+
         var order = new Order
         {
             TicketId = orderDto.TicketId,

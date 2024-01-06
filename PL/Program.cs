@@ -1,11 +1,9 @@
 using BLL.Services;
 using BLL.UnitOfWork;
 using DAL;
-using Lab3_3.Utilities;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
-
 
 builder.Services.AddDbContext<TheaterDbContext>(options =>
 {
@@ -16,16 +14,22 @@ builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddScoped<ISpectacleService, SpectacleService>();
 builder.Services.AddScoped<ITicketService, TicketService>();
 
+builder.Services.AddControllersWithViews().AddNewtonsoftJson(opt =>
+{
+    opt.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
+});
+
 var app = builder.Build();
 
 app.UseDefaultFiles();
 app.UseStaticFiles();
 
-using var scope = app.Services.CreateScope();
+app.MapControllers();
 
-var context = scope.ServiceProvider.GetRequiredService<TheaterDbContext>();
-await context.Database.MigrateAsync();
+using (var scope = app.Services.CreateScope())
+{
+    var context = scope.ServiceProvider.GetRequiredService<TheaterDbContext>();
+    await context.Database.MigrateAsync();
+}
 
-var unitOfWork = new UnitOfWork(context);
-
-await Demo.RunAsync(new SpectacleService(unitOfWork), new TicketService(unitOfWork));
+await app.RunAsync();

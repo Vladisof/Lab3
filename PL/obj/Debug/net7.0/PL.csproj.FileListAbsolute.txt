@@ -81,86 +81,88 @@
 /Users/maxzel/RiderProjects/Lab3_3/PL/obj/Debug/net7.0/PL.pdb
 /Users/maxzel/RiderProjects/Lab3_3/PL/obj/Debug/net7.0/PL.genruntimeconfig.cache
 /Users/maxzel/RiderProjects/Lab3_3/PL/obj/Debug/net7.0/ref/PL.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\appsettings.json
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\PL.exe
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\PL.deps.json
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\PL.runtimeconfig.json
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\PL.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\PL.pdb
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Azure.Core.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Azure.Identity.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Humanizer.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.Identity.Client.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Newtonsoft.Json.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\System.CodeDom.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\System.Drawing.Common.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\System.Memory.Data.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\System.Runtime.Caching.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\System.Security.Permissions.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\System.Windows.Extensions.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\BLL.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\DAL.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\BLL.pdb
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\bin\Debug\net7.0\DAL.pdb
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\PL.csproj.AssemblyReference.cache
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\PL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\PL.AssemblyInfoInputs.cache
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\PL.AssemblyInfo.cs
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\PL.csproj.CoreCompileInputs.cache
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\PL.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\PL.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\staticwebassets\msbuild.PL.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\staticwebassets\msbuild.build.PL.props
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PL.props
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PL.props
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\scopedcss\bundle\PL.styles.css
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\PL.csproj.CopyComplete
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\PL.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\refint\PL.dll
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\PL.pdb
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\PL.genruntimeconfig.cache
-C:\Users\vlad3\OneDrive\Рабочий стол\WebLab_3\WebLab_3\Lab3_3\Lab3_3\PL\obj\Debug\net7.0\ref\PL.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/appsettings.Development.json
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/appsettings.json
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/PL
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/PL.deps.json
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/PL.runtimeconfig.json
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/PL.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/PL.pdb
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Azure.Core.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Azure.Identity.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Humanizer.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/System.CodeDom.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/BLL.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/DAL.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/BLL.pdb
+/Users/maxzel/RiderProjects/Lab4_3/PL/bin/Debug/net7.0/DAL.pdb
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/PL.csproj.AssemblyReference.cache
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/PL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/PL.AssemblyInfoInputs.cache
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/PL.AssemblyInfo.cs
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/PL.csproj.CoreCompileInputs.cache
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/PL.MvcApplicationPartsAssemblyInfo.cs
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/PL.MvcApplicationPartsAssemblyInfo.cache
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/PL.RazorAssemblyInfo.cache
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/PL.RazorAssemblyInfo.cs
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/staticwebassets/msbuild.PL.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/staticwebassets/msbuild.build.PL.props
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.PL.props
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.PL.props
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/staticwebassets.build.json
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/staticwebassets.development.json
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/scopedcss/bundle/PL.styles.css
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/PL.csproj.CopyComplete
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/PL.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/refint/PL.dll
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/PL.pdb
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/PL.genruntimeconfig.cache
+/Users/maxzel/RiderProjects/Lab4_3/PL/obj/Debug/net7.0/ref/PL.dll

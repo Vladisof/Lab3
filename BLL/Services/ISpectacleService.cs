@@ -54,17 +54,20 @@ public class SpectacleService : ISpectacleService
 
     public async Task<IEnumerable<Spectacle>> GetSpectaclesAsync(string choice, string value)
     {
+        if (string.IsNullOrEmpty(value))
+            return await WorkModel.Spectacles.GetAllAsync();
+
         switch (choice)
         {
-            case "1":
+            case "name":
                 return await WorkModel.Spectacles.GetAllAsync(s => s.Name.Contains(value));
-            case "2":
+            case "date":
                 var date = DateTime.Parse(value);
 
                 return await WorkModel.Spectacles.GetAllAsync(s => s.Date.Date == date.Date);
-            case "3":
+            case "author":
                 return await WorkModel.Spectacles.GetAllAsync(s => s.Author.Contains(value));
-            case "4":
+            case "genre":
                 return await WorkModel.Spectacles.GetAllAsync(s => s.Genre.Contains(value));
             default:
                 return new List<Spectacle>();
